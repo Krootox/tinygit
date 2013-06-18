@@ -6,6 +6,7 @@ package
 	/**
 	 * ...
 	 * @author bC, mD, uA, jO
+	 * draft is testing his ability to commit
 	 */
 	public class Main extends Sprite 
 	{
